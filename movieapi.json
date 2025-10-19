@@ -1,0 +1,90 @@
+    {
+      "id": 1001,
+      "title": "Cosmic Drift",
+      "release_date": "2025-03-15",
+      "genre": "Sci-Fi",
+      "director": "Ava Chen",
+      "vote_average": 8.7,
+      "poster_url": "https://api.example.com/images/poster/cosmic_drift.jpg"
+    },
+    {
+      "id": 1002,
+      "title": "The Silent Witness",
+      "release_date": "2024-11-20",
+      "genre": "Thriller",
+      "director": "Ben Carter",
+      "vote_average": 7.9,
+      "poster_url": "https://api.example.com/images/poster/silent_witness.jpg"
+    },
+    {
+      "id": 1003,
+      "title": "A Summer in Florence",
+      "release_date": "2025-05-10",
+      "genre": "Romance",
+      "director": "Chloe Davis",
+      "vote_average": 9.1,
+      "poster_url": "https://api.example.com/images/poster/florence_summer.jpg"
+    },
+    {
+      "id": 1004,
+      "title": "The Iron Will",
+      "release_date": "2024-12-01",
+      "genre": "Action",
+      "director": "David Evans",
+      "vote_average": 8.5,
+      "poster_url": "https://api.example.com/images/poster/iron_will.jpg"
+    },
+    {
+      "id": 1005,
+      "title": "Legend of the Crimson Blade",
+      "release_date": "2025-01-28",
+      "genre": "Fantasy",
+      "director": "Eliza Foster",
+      "vote_average": 8.3,
+      "poster_url": "https://api.example.com/images/poster/crimson_blade.jpg"
+    },
+    {
+      "id": 1006,
+      "title": "Midnight Comedy Club",
+      "release_date": "2024-10-05",
+      "genre": "Comedy",
+      "director": "Finn Gordon",
+      "vote_average": 7.5,
+      "poster_url": "https://api.example.com/images/poster/midnight_comedy.jpg"
+    },
+    {
+      "id": 1007,
+      "title": "Deep Sea Discovery",
+      "release_date": "2025-06-22",
+      "genre": "Documentary",
+      "director": "Grace Hall",
+      "vote_average": 9.3,
+      "poster_url": "https://api.example.com/images/poster/deep_sea.jpg"
+    },
+    {
+      "id": 1008,
+      "title": "The Clockwork City",
+      "release_date": "2024-09-15",
+      "genre": "Adventure",
+      "director": "Henry Ito",
+      "vote_average": 8.0,
+      "poster_url": "https://api.example.com/images/poster/clockwork_city.jpg"
+    },
+    {
+      "id": 1009,
+      "title": "Echoes of the Past",
+      "release_date": "2025-04-03",
+      "genre": "Drama",
+      "director": "Ivy Jackson",
+      "vote_average": 8.8,
+      "poster_url": "https://api.example.com/images/poster/echoes_past.jpg"
+    },
+    {
+      "id": 1010,
+      "title": "Zero G Mission",
+      "release_date": "2024-11-11",
+      "genre": "Sci-Fi",
+      "director": "Jack Kelly",
+      "vote_average": 8.2,
+      "poster_url": "https://api.example.com/images/poster/zero_g_mission.jpg"
+    }
