@@ -1,4 +1,4 @@
-    {
+[    {
       "id": 1001,
       "title": "Cosmic Drift",
       "release_date": "2025-03-15",
@@ -88,3 +88,4 @@
       "vote_average": 8.2,
       "poster_url": "https://api.example.com/images/poster/zero_g_mission.jpg"
     }
+]
