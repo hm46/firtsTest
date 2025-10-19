@@ -5,7 +5,7 @@
       "genre": "Sci-Fi",
       "director": "Ava Chen",
       "vote_average": 8.7,
-      "poster_url": "https://api.example.com/images/poster/cosmic_drift.jpg"
+      "poster_url": "https://caffeine-and-octane-lanier-raceway.myshopify.com/cdn/shop/files/DCPROMO.png"
     },
     {
       "id": 1002,
@@ -14,7 +14,7 @@
       "genre": "Thriller",
       "director": "Ben Carter",
       "vote_average": 7.9,
-      "poster_url": "https://api.example.com/images/poster/silent_witness.jpg"
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNDFlOTgxNmYtNGRiNy00NzIxLTg0YTItOGUzZmZmNGJkMjYwXkEyXkFqcGc@._V1_.jpg"
     },
     {
       "id": 1003,
@@ -23,7 +23,7 @@
       "genre": "Romance",
       "director": "Chloe Davis",
       "vote_average": 9.1,
-      "poster_url": "https://api.example.com/images/poster/florence_summer.jpg"
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzQxNzQzOTQwM15BMl5BanBnXkFtZTgwMDQ2NTcwODM@._V1_FMjpg_UX1000_.jpg"
     },
     {
       "id": 1004,
@@ -32,7 +32,7 @@
       "genre": "Action",
       "director": "David Evans",
       "vote_average": 8.5,
-      "poster_url": "https://api.example.com/images/poster/iron_will.jpg"
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/8/8e/Iron_will_poster.jpg"
     },
     {
       "id": 1005,
@@ -41,51 +41,6 @@
       "genre": "Fantasy",
       "director": "Eliza Foster",
       "vote_average": 8.3,
-      "poster_url": "https://api.example.com/images/poster/crimson_blade.jpg"
-    },
-    {
-      "id": 1006,
-      "title": "Midnight Comedy Club",
-      "release_date": "2024-10-05",
-      "genre": "Comedy",
-      "director": "Finn Gordon",
-      "vote_average": 7.5,
-      "poster_url": "https://api.example.com/images/poster/midnight_comedy.jpg"
-    },
-    {
-      "id": 1007,
-      "title": "Deep Sea Discovery",
-      "release_date": "2025-06-22",
-      "genre": "Documentary",
-      "director": "Grace Hall",
-      "vote_average": 9.3,
-      "poster_url": "https://api.example.com/images/poster/deep_sea.jpg"
-    },
-    {
-      "id": 1008,
-      "title": "The Clockwork City",
-      "release_date": "2024-09-15",
-      "genre": "Adventure",
-      "director": "Henry Ito",
-      "vote_average": 8.0,
-      "poster_url": "https://api.example.com/images/poster/clockwork_city.jpg"
-    },
-    {
-      "id": 1009,
-      "title": "Echoes of the Past",
-      "release_date": "2025-04-03",
-      "genre": "Drama",
-      "director": "Ivy Jackson",
-      "vote_average": 8.8,
-      "poster_url": "https://api.example.com/images/poster/echoes_past.jpg"
-    },
-    {
-      "id": 1010,
-      "title": "Zero G Mission",
-      "release_date": "2024-11-11",
-      "genre": "Sci-Fi",
-      "director": "Jack Kelly",
-      "vote_average": 8.2,
-      "poster_url": "https://api.example.com/images/poster/zero_g_mission.jpg"
+      "poster_url": "https://m.media-amazon.com/images/I/71UAipS0bwL._UF350,350_QL50_.jpg"
     }
 ]
