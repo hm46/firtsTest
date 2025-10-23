@@ -1,46 +1,56 @@
-[    {
-      "id": 1001,
-      "title": "Cosmic Drift",
-      "release_date": "2025-03-15",
-      "genre": "Sci-Fi",
-      "director": "Ava Chen",
-      "vote_average": 8.7,
-      "poster_url": "https://caffeine-and-octane-lanier-raceway.myshopify.com/cdn/shop/files/DCPROMO.png"
+[
+    {
+        "id": 1,
+        "name": "Cosmic Encounter",
+        "image": "https://m.media-amazon.com/images/I/91LaUplt0WL._UF1000,1000_QL80_.jpg",
+        "minPlayers": 3,
+        "maxPlayers": 5,
+        "age": 12,
+        "duration": "long",
+        "difficulty": "medium",
+        "moods": ["خيال علمي", "تفاوض", "استراتيجية", "قدرات متنوعة"],
+        "description": "لعبة دبلوماسية وحرب مجرية...",
+        "rules": "الهدف هو إنشاء خمس مستعمرات..."
     },
     {
-      "id": 1002,
-      "title": "The Silent Witness",
-      "release_date": "2024-11-20",
-      "genre": "Thriller",
-      "director": "Ben Carter",
-      "vote_average": 7.9,
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BNDFlOTgxNmYtNGRiNy00NzIxLTg0YTItOGUzZmZmNGJkMjYwXkEyXkFqcGc@._V1_.jpg"
-    },
+        "id": 2,
+        "name": "Wingspan | جناحيها",
+        "image": "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__imagepage/img/uIjeoKgHMcRtzRSR4MoUYl3nXxs=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4458123.jpg",
+        "minPlayers": 1,
+        "maxPlayers": 5,
+        "age": 10,
+        "duration": "medium",
+        "difficulty": "medium",
+        "moods": ["بناء محرك", "استراتيجية", "لاعبان", "لعب فردي"],
+        "description": "لعبة تنافسية تعتمد على بناء المحركات...",
+        "rules": "يتناوب اللاعبون على لعب بطاقات الطيور..."
+    }
+      ,
     {
-      "id": 1003,
-      "title": "A Summer in Florence",
-      "release_date": "2025-05-10",
-      "genre": "Romance",
-      "director": "Chloe Davis",
-      "vote_average": 9.1,
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzQxNzQzOTQwM15BMl5BanBnXkFtZTgwMDQ2NTcwODM@._V1_FMjpg_UX1000_.jpg"
-    },
+        "id": 3,
+        "name": "Git",
+        "image": "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__imagepage/img/uIjeoKgHMcRtzRSR4MoUYl3nXxs=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4458123.jpg",
+        "minPlayers": 1,
+        "maxPlayers": 5,
+        "age": 10,
+        "duration": "medium",
+        "difficulty": "medium",
+        "moods": ["بناء محرك", "استراتيجية", "لاعبان", "لعب فردي"],
+        "description": "لعبة تنافسية تعتمد على بناء المحركات...",
+        "rules": "يتناوب اللاعبون على لعب بطاقات الطيور..."
+    }
+      ,
     {
-      "id": 1004,
-      "title": "The Iron Will",
-      "release_date": "2024-12-01",
-      "genre": "Action",
-      "director": "David Evans",
-      "vote_average": 8.5,
-      "poster_url": "https://upload.wikimedia.org/wikipedia/en/8/8e/Iron_will_poster.jpg"
-    },
-    {
-      "id": 1005,
-      "title": "Legend of the Crimson Blade",
-      "release_date": "2025-01-28",
-      "genre": "Fantasy",
-      "director": "Eliza Foster",
-      "vote_average": 8.3,
-      "poster_url": "https://m.media-amazon.com/images/I/71UAipS0bwL._UF350,350_QL50_.jpg"
+        "id": 4,
+        "name": "Github",
+        "image": "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__imagepage/img/uIjeoKgHMcRtzRSR4MoUYl3nXxs=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4458123.jpg",
+        "minPlayers": 1,
+        "maxPlayers": 5,
+        "age": 10,
+        "duration": "medium",
+        "difficulty": "medium",
+        "moods": ["بناء محرك", "استراتيجية", "لاعبان", "لعب فردي"],
+        "description": "لعبة تنافسية تعتمد على بناء المحركات...",
+        "rules": "يتناوب اللاعبون على لعب بطاقات الطيور..."
     }
 ]
